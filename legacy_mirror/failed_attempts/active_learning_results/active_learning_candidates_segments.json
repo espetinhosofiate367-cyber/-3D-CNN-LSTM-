@@ -1,0 +1,1602 @@
+[
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.5cm大\\1.5cm深\\2.CSV",
+    "end_row": 59,
+    "prob": 0.4999220371246338,
+    "uncertainty": 7.796287536621094e-05,
+    "segment_start": 54,
+    "segment_end": 64
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.5cm大\\0.5cm深\\2.CSV",
+    "end_row": 103,
+    "prob": 0.5004683136940002,
+    "uncertainty": 0.00046831369400024414,
+    "segment_start": 65,
+    "segment_end": 105
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.5cm大\\3.0cm深\\2.CSV",
+    "end_row": 231,
+    "prob": 0.4995212256908417,
+    "uncertainty": 0.0004787743091583252,
+    "segment_start": 226,
+    "segment_end": 236
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.5cm大\\3.0cm深\\2.CSV",
+    "end_row": 325,
+    "prob": 0.5005047917366028,
+    "uncertainty": 0.0005047917366027832,
+    "segment_start": 322,
+    "segment_end": 327
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.5cm大\\1.0cm深\\2.CSV",
+    "end_row": 245,
+    "prob": 0.49945706129074097,
+    "uncertainty": 0.0005429387092590332,
+    "segment_start": 233,
+    "segment_end": 282
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\0.5cm深\\2.CSV",
+    "end_row": 373,
+    "prob": 0.5005566477775574,
+    "uncertainty": 0.000556647777557373,
+    "segment_start": 320,
+    "segment_end": 377
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.75cm大\\1.0cm深\\2.CSV",
+    "end_row": 217,
+    "prob": 0.5005611777305603,
+    "uncertainty": 0.0005611777305603027,
+    "segment_start": 217,
+    "segment_end": 258
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\1.5cm深\\2.CSV",
+    "end_row": 53,
+    "prob": 0.5006411671638489,
+    "uncertainty": 0.000641167163848877,
+    "segment_start": 48,
+    "segment_end": 58
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\1cm深\\2.CSV",
+    "end_row": 45,
+    "prob": 0.5007086992263794,
+    "uncertainty": 0.0007086992263793945,
+    "segment_start": 35,
+    "segment_end": 108
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.5cm大\\2.0cm深\\2.CSV",
+    "end_row": 153,
+    "prob": 0.5007995963096619,
+    "uncertainty": 0.0007995963096618652,
+    "segment_start": 148,
+    "segment_end": 158
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.25cm大\\0.5cm深\\2.CSV",
+    "end_row": 49,
+    "prob": 0.5008153319358826,
+    "uncertainty": 0.0008153319358825684,
+    "segment_start": 47,
+    "segment_end": 88
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.25cm大\\1.5cm深\\2.CSV",
+    "end_row": 185,
+    "prob": 0.4990749955177307,
+    "uncertainty": 0.0009250044822692871,
+    "segment_start": 162,
+    "segment_end": 224
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.25cm大\\0.5cm深\\2.CSV",
+    "end_row": 107,
+    "prob": 0.5010359883308411,
+    "uncertainty": 0.0010359883308410645,
+    "segment_start": 57,
+    "segment_end": 116
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.25cm大\\2cm深\\2.CSV",
+    "end_row": 283,
+    "prob": 0.49874216318130493,
+    "uncertainty": 0.0012578368186950684,
+    "segment_start": 189,
+    "segment_end": 284
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.5cm大\\1.0cm深\\2.CSV",
+    "end_row": 247,
+    "prob": 0.5012791752815247,
+    "uncertainty": 0.0012791752815246582,
+    "segment_start": 233,
+    "segment_end": 282
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.75cm大\\1.0cm深\\2.CSV",
+    "end_row": 209,
+    "prob": 0.49871939420700073,
+    "uncertainty": 0.0012806057929992676,
+    "segment_start": 199,
+    "segment_end": 209
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\3cm深\\2.CSV",
+    "end_row": 67,
+    "prob": 0.4984252154827118,
+    "uncertainty": 0.001574784517288208,
+    "segment_start": 59,
+    "segment_end": 71
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.25cm大\\1cm深\\2.CSV",
+    "end_row": 21,
+    "prob": 0.5015827417373657,
+    "uncertainty": 0.0015827417373657227,
+    "segment_start": 16,
+    "segment_end": 26
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.5cm大\\1.0cm深\\2.CSV",
+    "end_row": 233,
+    "prob": 0.4982823431491852,
+    "uncertainty": 0.0017176568508148193,
+    "segment_start": 233,
+    "segment_end": 282
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.25cm大\\1cm深\\2.CSV",
+    "end_row": 191,
+    "prob": 0.4982641637325287,
+    "uncertainty": 0.0017358362674713135,
+    "segment_start": 186,
+    "segment_end": 196
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.5cm大\\0.5cm深\\2.CSV",
+    "end_row": 77,
+    "prob": 0.5017540454864502,
+    "uncertainty": 0.0017540454864501953,
+    "segment_start": 65,
+    "segment_end": 105
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.5cm大\\0.5cm深\\2.CSV",
+    "end_row": 313,
+    "prob": 0.4981517195701599,
+    "uncertainty": 0.0018482804298400879,
+    "segment_start": 313,
+    "segment_end": 358
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.5cm大\\2.0cm深\\2.CSV",
+    "end_row": 2337,
+    "prob": 0.49809470772743225,
+    "uncertainty": 0.001905292272567749,
+    "segment_start": 2330,
+    "segment_end": 2343
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.5cm大\\3.0cm深\\2.CSV",
+    "end_row": 515,
+    "prob": 0.49803411960601807,
+    "uncertainty": 0.0019658803939819336,
+    "segment_start": 427,
+    "segment_end": 582
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.5cm大\\1.5cm深\\2.CSV",
+    "end_row": 79,
+    "prob": 0.4978611469268799,
+    "uncertainty": 0.002138853073120117,
+    "segment_start": 71,
+    "segment_end": 80
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.5cm大\\1.0cm深\\2.CSV",
+    "end_row": 105,
+    "prob": 0.502167820930481,
+    "uncertainty": 0.002167820930480957,
+    "segment_start": 44,
+    "segment_end": 105
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.25cm大\\2.5cm深\\2.CSV",
+    "end_row": 43,
+    "prob": 0.5021713972091675,
+    "uncertainty": 0.0021713972091674805,
+    "segment_start": 38,
+    "segment_end": 48
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.25cm大\\0.5cm深\\2.CSV",
+    "end_row": 97,
+    "prob": 0.5022326707839966,
+    "uncertainty": 0.002232670783996582,
+    "segment_start": 57,
+    "segment_end": 116
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.25cm大\\2.5cm深\\2.CSV",
+    "end_row": 177,
+    "prob": 0.5023120045661926,
+    "uncertainty": 0.002312004566192627,
+    "segment_start": 172,
+    "segment_end": 182
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.75cm大\\1.0cm深\\2.CSV",
+    "end_row": 73,
+    "prob": 0.49749061465263367,
+    "uncertainty": 0.002509385347366333,
+    "segment_start": 55,
+    "segment_end": 108
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\0.5cm深\\2.CSV",
+    "end_row": 467,
+    "prob": 0.4970477223396301,
+    "uncertainty": 0.002952277660369873,
+    "segment_start": 438,
+    "segment_end": 474
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.5cm大\\0.5cm深\\2.CSV",
+    "end_row": 357,
+    "prob": 0.5030257105827332,
+    "uncertainty": 0.0030257105827331543,
+    "segment_start": 313,
+    "segment_end": 358
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.75cm大\\1.0cm深\\2.CSV",
+    "end_row": 257,
+    "prob": 0.5030273795127869,
+    "uncertainty": 0.0030273795127868652,
+    "segment_start": 217,
+    "segment_end": 258
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.25cm大\\0.5cm深\\2.CSV",
+    "end_row": 307,
+    "prob": 0.49691036343574524,
+    "uncertainty": 0.0030896365642547607,
+    "segment_start": 225,
+    "segment_end": 322
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.25cm大\\2cm深\\2.CSV",
+    "end_row": 31,
+    "prob": 0.5031881928443909,
+    "uncertainty": 0.003188192844390869,
+    "segment_start": 26,
+    "segment_end": 36
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.75cm大\\0.5cm深\\2.CSV",
+    "end_row": 261,
+    "prob": 0.49645110964775085,
+    "uncertainty": 0.0035488903522491455,
+    "segment_start": 256,
+    "segment_end": 266
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.5cm大\\3.0cm深\\2.CSV",
+    "end_row": 229,
+    "prob": 0.5036343932151794,
+    "uncertainty": 0.0036343932151794434,
+    "segment_start": 224,
+    "segment_end": 234
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\1cm深\\2.CSV",
+    "end_row": 101,
+    "prob": 0.5037192702293396,
+    "uncertainty": 0.0037192702293395996,
+    "segment_start": 41,
+    "segment_end": 107
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.75cm大\\0.5cm深\\2.CSV",
+    "end_row": 363,
+    "prob": 0.49613577127456665,
+    "uncertainty": 0.0038642287254333496,
+    "segment_start": 362,
+    "segment_end": 367
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.25cm大\\2.5cm深\\2.CSV",
+    "end_row": 261,
+    "prob": 0.5039098262786865,
+    "uncertainty": 0.0039098262786865234,
+    "segment_start": 256,
+    "segment_end": 266
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.25cm大\\2.5cm深\\2.CSV",
+    "end_row": 101,
+    "prob": 0.49607497453689575,
+    "uncertainty": 0.003925025463104248,
+    "segment_start": 44,
+    "segment_end": 101
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\3cm深\\2.CSV",
+    "end_row": 243,
+    "prob": 0.4959835708141327,
+    "uncertainty": 0.00401642918586731,
+    "segment_start": 240,
+    "segment_end": 249
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.5cm大\\1.0cm深\\2.CSV",
+    "end_row": 159,
+    "prob": 0.4959593117237091,
+    "uncertainty": 0.0040406882762908936,
+    "segment_start": 141,
+    "segment_end": 162
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.75cm大\\3.0cm深\\2.CSV",
+    "end_row": 277,
+    "prob": 0.49592211842536926,
+    "uncertainty": 0.004077881574630737,
+    "segment_start": 220,
+    "segment_end": 284
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.25cm大\\0.5cm深\\2.CSV",
+    "end_row": 89,
+    "prob": 0.4958990812301636,
+    "uncertainty": 0.004100918769836426,
+    "segment_start": 57,
+    "segment_end": 116
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.25cm大\\0.5cm深\\2.CSV",
+    "end_row": 83,
+    "prob": 0.5041466355323792,
+    "uncertainty": 0.00414663553237915,
+    "segment_start": 47,
+    "segment_end": 88
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.25cm大\\0.5cm深\\2.CSV",
+    "end_row": 95,
+    "prob": 0.5042270421981812,
+    "uncertainty": 0.004227042198181152,
+    "segment_start": 57,
+    "segment_end": 116
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\1cm深\\2.CSV",
+    "end_row": 83,
+    "prob": 0.504309892654419,
+    "uncertainty": 0.004309892654418945,
+    "segment_start": 41,
+    "segment_end": 107
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.25cm大\\2.5cm深\\2.CSV",
+    "end_row": 115,
+    "prob": 0.5043370723724365,
+    "uncertainty": 0.0043370723724365234,
+    "segment_start": 9,
+    "segment_end": 116
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.5cm大\\2.0cm深\\2.CSV",
+    "end_row": 1997,
+    "prob": 0.49559539556503296,
+    "uncertainty": 0.004404604434967041,
+    "segment_start": 1997,
+    "segment_end": 2030
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\3cm深\\2.CSV",
+    "end_row": 249,
+    "prob": 0.4954812824726105,
+    "uncertainty": 0.004518717527389526,
+    "segment_start": 239,
+    "segment_end": 250
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\1cm深\\2.CSV",
+    "end_row": 69,
+    "prob": 0.49548110365867615,
+    "uncertainty": 0.0045188963413238525,
+    "segment_start": 41,
+    "segment_end": 107
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\1.0cm深\\2.CSV",
+    "end_row": 125,
+    "prob": 0.5045435428619385,
+    "uncertainty": 0.0045435428619384766,
+    "segment_start": 98,
+    "segment_end": 166
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.75cm大\\1.0cm深\\2.CSV",
+    "end_row": 57,
+    "prob": 0.4954150319099426,
+    "uncertainty": 0.004584968090057373,
+    "segment_start": 55,
+    "segment_end": 108
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\2.0cm深\\2.CSV",
+    "end_row": 347,
+    "prob": 0.49530380964279175,
+    "uncertainty": 0.004696190357208252,
+    "segment_start": 339,
+    "segment_end": 354
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\1.5cm深\\2.CSV",
+    "end_row": 341,
+    "prob": 0.49528929591178894,
+    "uncertainty": 0.00471070408821106,
+    "segment_start": 339,
+    "segment_end": 346
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\1.0cm深\\2.CSV",
+    "end_row": 279,
+    "prob": 0.49501678347587585,
+    "uncertainty": 0.0049832165241241455,
+    "segment_start": 262,
+    "segment_end": 279
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.75cm大\\1.0cm深\\2.CSV",
+    "end_row": 75,
+    "prob": 0.49498769640922546,
+    "uncertainty": 0.005012303590774536,
+    "segment_start": 55,
+    "segment_end": 108
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\2cm深\\2.CSV",
+    "end_row": 503,
+    "prob": 0.5051448941230774,
+    "uncertainty": 0.005144894123077393,
+    "segment_start": 466,
+    "segment_end": 537
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\2.5cm深\\2.CSV",
+    "end_row": 67,
+    "prob": 0.5052022933959961,
+    "uncertainty": 0.005202293395996094,
+    "segment_start": 63,
+    "segment_end": 77
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.75cm大\\0.5cm深\\2.CSV",
+    "end_row": 333,
+    "prob": 0.5053170323371887,
+    "uncertainty": 0.005317032337188721,
+    "segment_start": 299,
+    "segment_end": 339
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.25cm大\\0.5cm深\\2.CSV",
+    "end_row": 305,
+    "prob": 0.5054117441177368,
+    "uncertainty": 0.005411744117736816,
+    "segment_start": 225,
+    "segment_end": 322
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.25cm大\\2.5cm深\\2.CSV",
+    "end_row": 271,
+    "prob": 0.49451252818107605,
+    "uncertainty": 0.00548747181892395,
+    "segment_start": 186,
+    "segment_end": 271
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.5cm大\\1.0cm深\\2.CSV",
+    "end_row": 75,
+    "prob": 0.49446460604667664,
+    "uncertainty": 0.005535393953323364,
+    "segment_start": 39,
+    "segment_end": 111
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.5cm大\\3.0cm深\\2.CSV",
+    "end_row": 513,
+    "prob": 0.5055955648422241,
+    "uncertainty": 0.005595564842224121,
+    "segment_start": 427,
+    "segment_end": 582
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\2cm深\\2.CSV",
+    "end_row": 505,
+    "prob": 0.5057615041732788,
+    "uncertainty": 0.005761504173278809,
+    "segment_start": 466,
+    "segment_end": 537
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.5cm大\\1.0cm深\\2.CSV",
+    "end_row": 79,
+    "prob": 0.49421414732933044,
+    "uncertainty": 0.005785852670669556,
+    "segment_start": 39,
+    "segment_end": 111
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.25cm大\\2.0cm深\\2.CSV",
+    "end_row": 195,
+    "prob": 0.5058419704437256,
+    "uncertainty": 0.005841970443725586,
+    "segment_start": 190,
+    "segment_end": 200
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.5cm大\\1.0cm深\\2.CSV",
+    "end_row": 235,
+    "prob": 0.505947470664978,
+    "uncertainty": 0.005947470664978027,
+    "segment_start": 233,
+    "segment_end": 282
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\2.5cm深\\2.CSV",
+    "end_row": 233,
+    "prob": 0.4939495027065277,
+    "uncertainty": 0.00605049729347229,
+    "segment_start": 227,
+    "segment_end": 238
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.5cm大\\1.5cm深\\2.CSV",
+    "end_row": 343,
+    "prob": 0.4939318597316742,
+    "uncertainty": 0.006068140268325806,
+    "segment_start": 338,
+    "segment_end": 348
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.5cm大\\1.5cm深\\2.CSV",
+    "end_row": 341,
+    "prob": 0.5061480402946472,
+    "uncertainty": 0.006148040294647217,
+    "segment_start": 336,
+    "segment_end": 346
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.5cm大\\2.0cm深\\2.CSV",
+    "end_row": 151,
+    "prob": 0.5061546564102173,
+    "uncertainty": 0.006154656410217285,
+    "segment_start": 146,
+    "segment_end": 156
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.25cm大\\0.5cm深\\2.CSV",
+    "end_row": 103,
+    "prob": 0.5061680674552917,
+    "uncertainty": 0.006168067455291748,
+    "segment_start": 57,
+    "segment_end": 116
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\1.5cm深\\2.CSV",
+    "end_row": 345,
+    "prob": 0.4937911033630371,
+    "uncertainty": 0.006208896636962891,
+    "segment_start": 339,
+    "segment_end": 346
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\2.5cm深\\2.CSV",
+    "end_row": 235,
+    "prob": 0.4936480224132538,
+    "uncertainty": 0.006351977586746216,
+    "segment_start": 227,
+    "segment_end": 238
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\1cm深\\2.CSV",
+    "end_row": 79,
+    "prob": 0.49363163113594055,
+    "uncertainty": 0.006368368864059448,
+    "segment_start": 41,
+    "segment_end": 107
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.25cm大\\2.5cm深\\2.CSV",
+    "end_row": 187,
+    "prob": 0.506370484828949,
+    "uncertainty": 0.006370484828948975,
+    "segment_start": 182,
+    "segment_end": 192
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.25cm大\\0.5cm深\\2.CSV",
+    "end_row": 189,
+    "prob": 0.5063892006874084,
+    "uncertainty": 0.006389200687408447,
+    "segment_start": 171,
+    "segment_end": 191
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.25cm大\\0.5cm深\\2.CSV",
+    "end_row": 227,
+    "prob": 0.49340516328811646,
+    "uncertainty": 0.006594836711883545,
+    "segment_start": 223,
+    "segment_end": 241
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.5cm大\\1.5cm深\\2.CSV",
+    "end_row": 265,
+    "prob": 0.5066004991531372,
+    "uncertainty": 0.006600499153137207,
+    "segment_start": 260,
+    "segment_end": 270
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.5cm大\\1.5cm深\\2.CSV",
+    "end_row": 109,
+    "prob": 0.4933178126811981,
+    "uncertainty": 0.00668218731880188,
+    "segment_start": 9,
+    "segment_end": 136
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.5cm大\\2.0cm深\\2.CSV",
+    "end_row": 2339,
+    "prob": 0.5067480802536011,
+    "uncertainty": 0.006748080253601074,
+    "segment_start": 2330,
+    "segment_end": 2343
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.5cm大\\1.0cm深\\2.CSV",
+    "end_row": 77,
+    "prob": 0.5069186091423035,
+    "uncertainty": 0.006918609142303467,
+    "segment_start": 39,
+    "segment_end": 111
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.25cm大\\0.5cm深\\2.CSV",
+    "end_row": 309,
+    "prob": 0.493011474609375,
+    "uncertainty": 0.006988525390625,
+    "segment_start": 225,
+    "segment_end": 323
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.25cm大\\2.5cm深\\2.CSV",
+    "end_row": 189,
+    "prob": 0.506996750831604,
+    "uncertainty": 0.006996750831604004,
+    "segment_start": 184,
+    "segment_end": 194
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.75cm大\\1.0cm深\\2.CSV",
+    "end_row": 71,
+    "prob": 0.5070276260375977,
+    "uncertainty": 0.007027626037597656,
+    "segment_start": 55,
+    "segment_end": 108
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.5cm大\\1.5cm深\\2.CSV",
+    "end_row": 97,
+    "prob": 0.4928721487522125,
+    "uncertainty": 0.007127851247787476,
+    "segment_start": 66,
+    "segment_end": 135
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.5cm大\\1.0cm深\\2.CSV",
+    "end_row": 243,
+    "prob": 0.5071375966072083,
+    "uncertainty": 0.007137596607208252,
+    "segment_start": 233,
+    "segment_end": 282
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\3cm深\\2.CSV",
+    "end_row": 247,
+    "prob": 0.5071784853935242,
+    "uncertainty": 0.00717848539352417,
+    "segment_start": 240,
+    "segment_end": 249
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.75cm大\\2.5cm深\\2.CSV",
+    "end_row": 121,
+    "prob": 0.49272340536117554,
+    "uncertainty": 0.007276594638824463,
+    "segment_start": 72,
+    "segment_end": 127
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.25cm大\\1cm深\\2.CSV",
+    "end_row": 35,
+    "prob": 0.5073930025100708,
+    "uncertainty": 0.007393002510070801,
+    "segment_start": 30,
+    "segment_end": 40
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\3cm深\\2.CSV",
+    "end_row": 241,
+    "prob": 0.5074195861816406,
+    "uncertainty": 0.007419586181640625,
+    "segment_start": 240,
+    "segment_end": 249
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.25cm大\\0.5cm深\\2.CSV",
+    "end_row": 209,
+    "prob": 0.5074307918548584,
+    "uncertainty": 0.0074307918548583984,
+    "segment_start": 206,
+    "segment_end": 211
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\1.0cm深\\2.CSV",
+    "end_row": 135,
+    "prob": 0.4925045967102051,
+    "uncertainty": 0.007495403289794922,
+    "segment_start": 98,
+    "segment_end": 166
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.25cm大\\0.5cm深\\2.CSV",
+    "end_row": 175,
+    "prob": 0.4922184348106384,
+    "uncertainty": 0.007781565189361572,
+    "segment_start": 171,
+    "segment_end": 191
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.75cm大\\0.5cm深\\2.CSV",
+    "end_row": 99,
+    "prob": 0.4921252727508545,
+    "uncertainty": 0.007874727249145508,
+    "segment_start": 60,
+    "segment_end": 99
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.5cm大\\1.0cm深\\2.CSV",
+    "end_row": 273,
+    "prob": 0.4917202591896057,
+    "uncertainty": 0.008279740810394287,
+    "segment_start": 233,
+    "segment_end": 282
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\1cm深\\2.CSV",
+    "end_row": 85,
+    "prob": 0.5082947015762329,
+    "uncertainty": 0.00829470157623291,
+    "segment_start": 41,
+    "segment_end": 107
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.25cm大\\0.5cm深\\2.CSV",
+    "end_row": 61,
+    "prob": 0.4916880428791046,
+    "uncertainty": 0.008311957120895386,
+    "segment_start": 57,
+    "segment_end": 116
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\2cm深\\2.CSV",
+    "end_row": 471,
+    "prob": 0.5083881616592407,
+    "uncertainty": 0.008388161659240723,
+    "segment_start": 466,
+    "segment_end": 537
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\2.0cm深\\2.CSV",
+    "end_row": 345,
+    "prob": 0.491554856300354,
+    "uncertainty": 0.008445143699645996,
+    "segment_start": 339,
+    "segment_end": 354
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.5cm大\\1.5cm深\\2.CSV",
+    "end_row": 99,
+    "prob": 0.4913610517978668,
+    "uncertainty": 0.008638948202133179,
+    "segment_start": 66,
+    "segment_end": 135
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.5cm大\\1.0cm深\\2.CSV",
+    "end_row": 237,
+    "prob": 0.5086489915847778,
+    "uncertainty": 0.008648991584777832,
+    "segment_start": 233,
+    "segment_end": 282
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.25cm大\\0.5cm深\\2.CSV",
+    "end_row": 187,
+    "prob": 0.49126699566841125,
+    "uncertainty": 0.008733004331588745,
+    "segment_start": 171,
+    "segment_end": 191
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.25cm大\\1cm深\\2.CSV",
+    "end_row": 33,
+    "prob": 0.49104464054107666,
+    "uncertainty": 0.00895535945892334,
+    "segment_start": 28,
+    "segment_end": 38
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\3cm深\\2.CSV",
+    "end_row": 245,
+    "prob": 0.49103567004203796,
+    "uncertainty": 0.008964329957962036,
+    "segment_start": 240,
+    "segment_end": 249
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\2cm深\\2.CSV",
+    "end_row": 507,
+    "prob": 0.4910244047641754,
+    "uncertainty": 0.008975595235824585,
+    "segment_start": 466,
+    "segment_end": 537
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\1cm深\\2.CSV",
+    "end_row": 103,
+    "prob": 0.49095407128334045,
+    "uncertainty": 0.009045928716659546,
+    "segment_start": 41,
+    "segment_end": 107
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\1.5cm深\\2.CSV",
+    "end_row": 343,
+    "prob": 0.4909510612487793,
+    "uncertainty": 0.009048938751220703,
+    "segment_start": 339,
+    "segment_end": 346
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.5cm大\\2.0cm深\\2.CSV",
+    "end_row": 149,
+    "prob": 0.5090690851211548,
+    "uncertainty": 0.009069085121154785,
+    "segment_start": 144,
+    "segment_end": 154
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.5cm大\\2.0cm深\\2.CSV",
+    "end_row": 2331,
+    "prob": 0.4907757341861725,
+    "uncertainty": 0.009224265813827515,
+    "segment_start": 2330,
+    "segment_end": 2343
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\1.0cm深\\2.CSV",
+    "end_row": 133,
+    "prob": 0.5093016624450684,
+    "uncertainty": 0.00930166244506836,
+    "segment_start": 98,
+    "segment_end": 166
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\3.0cm深\\2.CSV",
+    "end_row": 303,
+    "prob": 0.5095049738883972,
+    "uncertainty": 0.009504973888397217,
+    "segment_start": 290,
+    "segment_end": 308
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.75cm大\\0.5cm深\\2.CSV",
+    "end_row": 301,
+    "prob": 0.49035024642944336,
+    "uncertainty": 0.00964975357055664,
+    "segment_start": 299,
+    "segment_end": 339
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\1.5cm深\\2.CSV",
+    "end_row": 77,
+    "prob": 0.5096945762634277,
+    "uncertainty": 0.009694576263427734,
+    "segment_start": 60,
+    "segment_end": 111
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\1cm深\\2.CSV",
+    "end_row": 81,
+    "prob": 0.4902808964252472,
+    "uncertainty": 0.009719103574752808,
+    "segment_start": 41,
+    "segment_end": 107
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\3.0cm深\\2.CSV",
+    "end_row": 299,
+    "prob": 0.5100561380386353,
+    "uncertainty": 0.010056138038635254,
+    "segment_start": 290,
+    "segment_end": 308
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.5cm大\\1.5cm深\\2.CSV",
+    "end_row": 77,
+    "prob": 0.4897759258747101,
+    "uncertainty": 0.010224074125289917,
+    "segment_start": 71,
+    "segment_end": 80
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.5cm大\\1.5cm深\\2.CSV",
+    "end_row": 101,
+    "prob": 0.4897519052028656,
+    "uncertainty": 0.0102480947971344,
+    "segment_start": 66,
+    "segment_end": 135
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.5cm大\\1.5cm深\\2.CSV",
+    "end_row": 113,
+    "prob": 0.4897456169128418,
+    "uncertainty": 0.010254383087158203,
+    "segment_start": 9,
+    "segment_end": 136
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.25cm大\\1cm深\\2.CSV",
+    "end_row": 203,
+    "prob": 0.48960453271865845,
+    "uncertainty": 0.010395467281341553,
+    "segment_start": 198,
+    "segment_end": 208
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\1.0cm深\\2.CSV",
+    "end_row": 13,
+    "prob": 0.4895996153354645,
+    "uncertainty": 0.010400384664535522,
+    "segment_start": 9,
+    "segment_end": 30
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\0.5cm深\\2.CSV",
+    "end_row": 441,
+    "prob": 0.5104031562805176,
+    "uncertainty": 0.010403156280517578,
+    "segment_start": 438,
+    "segment_end": 474
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.25cm大\\0.5cm深\\2.CSV",
+    "end_row": 337,
+    "prob": 0.5107141733169556,
+    "uncertainty": 0.010714173316955566,
+    "segment_start": 331,
+    "segment_end": 357
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\2cm深\\2.CSV",
+    "end_row": 531,
+    "prob": 0.48926883935928345,
+    "uncertainty": 0.010731160640716553,
+    "segment_start": 464,
+    "segment_end": 541
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\0.5cm深\\2.CSV",
+    "end_row": 335,
+    "prob": 0.5108285546302795,
+    "uncertainty": 0.010828554630279541,
+    "segment_start": 320,
+    "segment_end": 377
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\1.5cm深\\2.CSV",
+    "end_row": 339,
+    "prob": 0.48914045095443726,
+    "uncertainty": 0.010859549045562744,
+    "segment_start": 339,
+    "segment_end": 346
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.5cm大\\3.0cm深\\2.CSV",
+    "end_row": 427,
+    "prob": 0.48912984132766724,
+    "uncertainty": 0.010870158672332764,
+    "segment_start": 427,
+    "segment_end": 511
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\2.0cm深\\2.CSV",
+    "end_row": 369,
+    "prob": 0.4890700578689575,
+    "uncertainty": 0.01092994213104248,
+    "segment_start": 357,
+    "segment_end": 373
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\1.0cm深\\2.CSV",
+    "end_row": 15,
+    "prob": 0.48903971910476685,
+    "uncertainty": 0.010960280895233154,
+    "segment_start": 9,
+    "segment_end": 30
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\2cm深\\2.CSV",
+    "end_row": 451,
+    "prob": 0.4889511466026306,
+    "uncertainty": 0.011048853397369385,
+    "segment_start": 451,
+    "segment_end": 456
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.25cm大\\0.5cm深\\2.CSV",
+    "end_row": 177,
+    "prob": 0.5111808180809021,
+    "uncertainty": 0.0111808180809021,
+    "segment_start": 171,
+    "segment_end": 191
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.75cm大\\0.5cm深\\2.CSV",
+    "end_row": 55,
+    "prob": 0.5112573504447937,
+    "uncertainty": 0.011257350444793701,
+    "segment_start": 50,
+    "segment_end": 60
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\0.5cm深\\2.CSV",
+    "end_row": 443,
+    "prob": 0.4886401295661926,
+    "uncertainty": 0.011359870433807373,
+    "segment_start": 438,
+    "segment_end": 474
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\3cm深\\2.CSV",
+    "end_row": 93,
+    "prob": 0.4886258840560913,
+    "uncertainty": 0.011374115943908691,
+    "segment_start": 93,
+    "segment_end": 108
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.75cm大\\1.0cm深\\2.CSV",
+    "end_row": 187,
+    "prob": 0.5114172697067261,
+    "uncertainty": 0.011417269706726074,
+    "segment_start": 187,
+    "segment_end": 196
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.75cm大\\1.5cm深\\2.CSV",
+    "end_row": 71,
+    "prob": 0.488529235124588,
+    "uncertainty": 0.011470764875411987,
+    "segment_start": 42,
+    "segment_end": 76
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.75cm大\\3.0cm深\\2.CSV",
+    "end_row": 275,
+    "prob": 0.5116004347801208,
+    "uncertainty": 0.01160043478012085,
+    "segment_start": 220,
+    "segment_end": 284
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.75cm大\\3.0cm深\\2.CSV",
+    "end_row": 151,
+    "prob": 0.5116064548492432,
+    "uncertainty": 0.011606454849243164,
+    "segment_start": 57,
+    "segment_end": 159
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.5cm大\\1.5cm深\\2.CSV",
+    "end_row": 95,
+    "prob": 0.4883914589881897,
+    "uncertainty": 0.011608541011810303,
+    "segment_start": 66,
+    "segment_end": 135
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.5cm大\\1.5cm深\\2.CSV",
+    "end_row": 111,
+    "prob": 0.5116696357727051,
+    "uncertainty": 0.011669635772705078,
+    "segment_start": 9,
+    "segment_end": 136
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.5cm大\\1.0cm深\\2.CSV",
+    "end_row": 253,
+    "prob": 0.5117009282112122,
+    "uncertainty": 0.011700928211212158,
+    "segment_start": 233,
+    "segment_end": 282
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\2cm深\\2.CSV",
+    "end_row": 529,
+    "prob": 0.48791396617889404,
+    "uncertainty": 0.012086033821105957,
+    "segment_start": 464,
+    "segment_end": 541
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.5cm大\\1.5cm深\\2.CSV",
+    "end_row": 127,
+    "prob": 0.5121220946311951,
+    "uncertainty": 0.012122094631195068,
+    "segment_start": 122,
+    "segment_end": 132
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.25cm大\\0.5cm深\\2.CSV",
+    "end_row": 311,
+    "prob": 0.48775002360343933,
+    "uncertainty": 0.012249976396560669,
+    "segment_start": 225,
+    "segment_end": 324
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.5cm大\\1.0cm深\\2.CSV",
+    "end_row": 251,
+    "prob": 0.5122589468955994,
+    "uncertainty": 0.012258946895599365,
+    "segment_start": 233,
+    "segment_end": 282
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.75cm大\\2.5cm深\\2.CSV",
+    "end_row": 261,
+    "prob": 0.5124209523200989,
+    "uncertainty": 0.012420952320098877,
+    "segment_start": 234,
+    "segment_end": 262
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\1cm深\\2.CSV",
+    "end_row": 241,
+    "prob": 0.4875287115573883,
+    "uncertainty": 0.012471288442611694,
+    "segment_start": 210,
+    "segment_end": 242
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\3.0cm深\\2.CSV",
+    "end_row": 307,
+    "prob": 0.5125802755355835,
+    "uncertainty": 0.012580275535583496,
+    "segment_start": 290,
+    "segment_end": 308
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\1cm深\\2.CSV",
+    "end_row": 87,
+    "prob": 0.5126658082008362,
+    "uncertainty": 0.012665808200836182,
+    "segment_start": 41,
+    "segment_end": 107
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\3cm深\\2.CSV",
+    "end_row": 61,
+    "prob": 0.4871053099632263,
+    "uncertainty": 0.012894690036773682,
+    "segment_start": 55,
+    "segment_end": 73
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\1cm深\\2.CSV",
+    "end_row": 71,
+    "prob": 0.5129484534263611,
+    "uncertainty": 0.012948453426361084,
+    "segment_start": 41,
+    "segment_end": 107
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\1.0cm深\\2.CSV",
+    "end_row": 123,
+    "prob": 0.48697081208229065,
+    "uncertainty": 0.01302918791770935,
+    "segment_start": 98,
+    "segment_end": 166
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.5cm大\\3.0cm深\\2.CSV",
+    "end_row": 233,
+    "prob": 0.48676273226737976,
+    "uncertainty": 0.01323726773262024,
+    "segment_start": 228,
+    "segment_end": 238
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.25cm大\\1cm深\\2.CSV",
+    "end_row": 205,
+    "prob": 0.5134518146514893,
+    "uncertainty": 0.013451814651489258,
+    "segment_start": 200,
+    "segment_end": 210
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\3.0cm深\\2.CSV",
+    "end_row": 301,
+    "prob": 0.486542284488678,
+    "uncertainty": 0.013457715511322021,
+    "segment_start": 290,
+    "segment_end": 308
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.75cm大\\1.0cm深\\2.CSV",
+    "end_row": 77,
+    "prob": 0.486325204372406,
+    "uncertainty": 0.013674795627593994,
+    "segment_start": 55,
+    "segment_end": 108
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.25cm大\\1cm深\\2.CSV",
+    "end_row": 31,
+    "prob": 0.4862039387226105,
+    "uncertainty": 0.013796061277389526,
+    "segment_start": 26,
+    "segment_end": 36
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.25cm大\\1.5cm深\\2.CSV",
+    "end_row": 89,
+    "prob": 0.4859570562839508,
+    "uncertainty": 0.014042943716049194,
+    "segment_start": 41,
+    "segment_end": 101
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.5cm大\\3.0cm深\\2.CSV",
+    "end_row": 179,
+    "prob": 0.4857412278652191,
+    "uncertainty": 0.014258772134780884,
+    "segment_start": 174,
+    "segment_end": 184
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.5cm大\\3.0cm深\\2.CSV",
+    "end_row": 517,
+    "prob": 0.5142729878425598,
+    "uncertainty": 0.014272987842559814,
+    "segment_start": 427,
+    "segment_end": 582
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\3cm深\\2.CSV",
+    "end_row": 69,
+    "prob": 0.48562610149383545,
+    "uncertainty": 0.01437389850616455,
+    "segment_start": 59,
+    "segment_end": 70
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.5cm大\\1.5cm深\\2.CSV",
+    "end_row": 129,
+    "prob": 0.48562225699424744,
+    "uncertainty": 0.014377743005752563,
+    "segment_start": 124,
+    "segment_end": 129
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.5cm大\\1.5cm深\\2.CSV",
+    "end_row": 107,
+    "prob": 0.4856043756008148,
+    "uncertainty": 0.01439562439918518,
+    "segment_start": 9,
+    "segment_end": 136
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.25cm大\\1.5cm深\\2.CSV",
+    "end_row": 91,
+    "prob": 0.48555266857147217,
+    "uncertainty": 0.014447331428527832,
+    "segment_start": 41,
+    "segment_end": 101
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\0.5cm深\\2.CSV",
+    "end_row": 371,
+    "prob": 0.5145368576049805,
+    "uncertainty": 0.014536857604980469,
+    "segment_start": 320,
+    "segment_end": 377
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\2.5cm深\\2.CSV",
+    "end_row": 121,
+    "prob": 0.5146645307540894,
+    "uncertainty": 0.014664530754089355,
+    "segment_start": 108,
+    "segment_end": 122
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.25cm大\\0.5cm深\\2.CSV",
+    "end_row": 185,
+    "prob": 0.5146836042404175,
+    "uncertainty": 0.01468360424041748,
+    "segment_start": 171,
+    "segment_end": 191
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.25cm大\\1.5cm深\\2.CSV",
+    "end_row": 87,
+    "prob": 0.48513057827949524,
+    "uncertainty": 0.01486942172050476,
+    "segment_start": 41,
+    "segment_end": 101
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.25cm大\\2.5cm深\\2.CSV",
+    "end_row": 259,
+    "prob": 0.4851110875606537,
+    "uncertainty": 0.014888912439346313,
+    "segment_start": 254,
+    "segment_end": 264
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.5cm大\\1.0cm深\\2.CSV",
+    "end_row": 239,
+    "prob": 0.5148988962173462,
+    "uncertainty": 0.014898896217346191,
+    "segment_start": 233,
+    "segment_end": 282
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\3.0cm深\\2.CSV",
+    "end_row": 295,
+    "prob": 0.48505842685699463,
+    "uncertainty": 0.014941573143005371,
+    "segment_start": 290,
+    "segment_end": 308
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.5cm大\\1.5cm深\\2.CSV",
+    "end_row": 91,
+    "prob": 0.48499834537506104,
+    "uncertainty": 0.015001654624938965,
+    "segment_start": 66,
+    "segment_end": 135
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\1.0cm深\\2.CSV",
+    "end_row": 11,
+    "prob": 0.4848772883415222,
+    "uncertainty": 0.015122711658477783,
+    "segment_start": 9,
+    "segment_end": 30
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.25cm大\\2.0cm深\\2.CSV",
+    "end_row": 45,
+    "prob": 0.515193521976471,
+    "uncertainty": 0.015193521976470947,
+    "segment_start": 40,
+    "segment_end": 50
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.25cm大\\3.0cm深\\2.CSV",
+    "end_row": 255,
+    "prob": 0.515217661857605,
+    "uncertainty": 0.01521766185760498,
+    "segment_start": 250,
+    "segment_end": 260
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.25cm大\\0.5cm深\\2.CSV",
+    "end_row": 105,
+    "prob": 0.515487015247345,
+    "uncertainty": 0.01548701524734497,
+    "segment_start": 57,
+    "segment_end": 116
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.75cm大\\3.0cm深\\2.CSV",
+    "end_row": 159,
+    "prob": 0.51576167345047,
+    "uncertainty": 0.01576167345046997,
+    "segment_start": 57,
+    "segment_end": 159
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\0.5cm深\\2.CSV",
+    "end_row": 445,
+    "prob": 0.4842076599597931,
+    "uncertainty": 0.01579234004020691,
+    "segment_start": 438,
+    "segment_end": 474
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.25cm大\\1cm深\\2.CSV",
+    "end_row": 19,
+    "prob": 0.5159206986427307,
+    "uncertainty": 0.015920698642730713,
+    "segment_start": 14,
+    "segment_end": 24
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.75cm大\\3.0cm深\\2.CSV",
+    "end_row": 57,
+    "prob": 0.4839420020580292,
+    "uncertainty": 0.016057997941970825,
+    "segment_start": 57,
+    "segment_end": 159
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\3cm深\\2.CSV",
+    "end_row": 197,
+    "prob": 0.483885258436203,
+    "uncertainty": 0.016114741563796997,
+    "segment_start": 195,
+    "segment_end": 222
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.5cm大\\2.0cm深\\2.CSV",
+    "end_row": 363,
+    "prob": 0.5161422491073608,
+    "uncertainty": 0.01614224910736084,
+    "segment_start": 350,
+    "segment_end": 364
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\0.5cm深\\2.CSV",
+    "end_row": 249,
+    "prob": 0.48370128870010376,
+    "uncertainty": 0.01629871129989624,
+    "segment_start": 226,
+    "segment_end": 378
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.5cm大\\3.0cm深\\2.CSV",
+    "end_row": 13,
+    "prob": 0.4836777448654175,
+    "uncertainty": 0.01632225513458252,
+    "segment_start": 9,
+    "segment_end": 19
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.25cm大\\2.5cm深\\2.CSV",
+    "end_row": 133,
+    "prob": 0.5165810585021973,
+    "uncertainty": 0.016581058502197266,
+    "segment_start": 127,
+    "segment_end": 163
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\2cm深\\2.CSV",
+    "end_row": 527,
+    "prob": 0.48326173424720764,
+    "uncertainty": 0.01673826575279236,
+    "segment_start": 464,
+    "segment_end": 541
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.25cm大\\1.5cm深\\2.CSV",
+    "end_row": 85,
+    "prob": 0.4832208752632141,
+    "uncertainty": 0.01677912473678589,
+    "segment_start": 41,
+    "segment_end": 101
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\1cm深\\2.CSV",
+    "end_row": 213,
+    "prob": 0.5168372988700867,
+    "uncertainty": 0.01683729887008667,
+    "segment_start": 211,
+    "segment_end": 242
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.5cm大\\2.5cm深\\2.CSV",
+    "end_row": 81,
+    "prob": 0.4830087423324585,
+    "uncertainty": 0.016991257667541504,
+    "segment_start": 76,
+    "segment_end": 86
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.25cm大\\2.5cm深\\2.CSV",
+    "end_row": 129,
+    "prob": 0.517058789730072,
+    "uncertainty": 0.01705878973007202,
+    "segment_start": 128,
+    "segment_end": 163
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\1cm深\\2.CSV",
+    "end_row": 171,
+    "prob": 0.517080545425415,
+    "uncertainty": 0.01708054542541504,
+    "segment_start": 169,
+    "segment_end": 194
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.75cm大\\1cm深\\2.CSV",
+    "end_row": 99,
+    "prob": 0.5172215700149536,
+    "uncertainty": 0.017221570014953613,
+    "segment_start": 41,
+    "segment_end": 107
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1.5cm大\\1.0cm深\\2.CSV",
+    "end_row": 241,
+    "prob": 0.5174317359924316,
+    "uncertainty": 0.01743173599243164,
+    "segment_start": 233,
+    "segment_end": 282
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.5cm大\\2.0cm深\\2.CSV",
+    "end_row": 2025,
+    "prob": 0.48256662487983704,
+    "uncertainty": 0.017433375120162964,
+    "segment_start": 1997,
+    "segment_end": 2030
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.5cm大\\0.5cm深\\2.CSV",
+    "end_row": 233,
+    "prob": 0.517448365688324,
+    "uncertainty": 0.017448365688323975,
+    "segment_start": 152,
+    "segment_end": 234
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\0.5cm深\\2.CSV",
+    "end_row": 613,
+    "prob": 0.5175179839134216,
+    "uncertainty": 0.01751798391342163,
+    "segment_start": 589,
+    "segment_end": 618
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\0.5cm大\\1.5cm深\\2.CSV",
+    "end_row": 93,
+    "prob": 0.48243752121925354,
+    "uncertainty": 0.01756247878074646,
+    "segment_start": 66,
+    "segment_end": 135
+  },
+  {
+    "file_path": "c:\\Users\\SWH\\Desktop\\智能医疗检测系统\\实验数据\\数据集 最新\\建表数据\\1cm大\\1.0cm深\\2.CSV",
+    "end_row": 17,
+    "prob": 0.4823935627937317,
+    "uncertainty": 0.01760643720626831,
+    "segment_start": 9,
+    "segment_end": 30
+  }
+]

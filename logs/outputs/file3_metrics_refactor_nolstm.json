@@ -1,0 +1,19 @@
+{
+  "model": "nolstm",
+  "threshold": 0.5,
+  "step_size": 0.25,
+  "step_depth": 0.5,
+  "tp": 4361,
+  "tn": 27180,
+  "fp": 4564,
+  "fn": 7327,
+  "accuracy": 0.7262156934978817,
+  "precision": 0.4886274509803922,
+  "recall": 0.3731177275838467,
+  "f1": 0.4231310338136128,
+  "mae_size": 0.3343729276540656,
+  "mae_depth": 0.6984882868571829,
+  "file_level_total": 81,
+  "file_level_correct": 23,
+  "file_level_detection_rate": 0.2839506172839506
+}
