@@ -1,0 +1,19 @@
+name: bigchuang_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - numpy
+      - pandas
+      - scipy
+      - matplotlib
+      - seaborn
+      - plotly
+      - dash
+      - pyserial
+      - tqdm
+      - torch
+      - torchvision
+      - torchaudio

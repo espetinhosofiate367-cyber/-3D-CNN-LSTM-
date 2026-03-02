@@ -1,0 +1,20 @@
+{
+  "tp": 3309,
+  "tn": 28998,
+  "fp": 2746,
+  "fn": 8379,
+  "accuracy": 0.7438524590163934,
+  "precision": 0.5464905037159372,
+  "recall": 0.28311088295687886,
+  "f1": 0.37299216592459006,
+  "mae_size": 0.17642230497958544,
+  "mae_depth": 0.32795882424079026,
+  "acc_within_one_step": 0.1708590006844627,
+  "step_size": 0.25,
+  "step_depth": 0.5,
+  "total_positive": 11688,
+  "correct_within_step": 1997,
+  "per_file_accuracy": 0.8809523809523809,
+  "per_file_total": 42,
+  "per_file_correct": 37
+}

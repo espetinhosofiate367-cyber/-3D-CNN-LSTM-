@@ -1,0 +1,19 @@
+{
+  "model": "dualstream",
+  "threshold": 0.5,
+  "step_size": 0.25,
+  "step_depth": 0.5,
+  "tp": 5413,
+  "tn": 26372,
+  "fp": 5372,
+  "fn": 6275,
+  "accuracy": 0.7318336710259716,
+  "precision": 0.5019007881316644,
+  "recall": 0.4631245722108145,
+  "f1": 0.4817336359186579,
+  "mae_size": 0.3106163574243988,
+  "mae_depth": 0.7391156916441725,
+  "file_level_total": 81,
+  "file_level_correct": 30,
+  "file_level_detection_rate": 0.37037037037037035
+}
